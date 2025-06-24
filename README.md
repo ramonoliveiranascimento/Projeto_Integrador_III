@@ -69,13 +69,13 @@ pip install streamlit yfinance pandas numpy requests beautifulsoup4
 1. Clone este repositório para sua máquina:
 
 ```bash
-git clone https://github.com/ramonoliveiranascimento/NOME_DO_REPOSITORIO.git
+git clone https://github.com/ramonoliveiranascimento/Projeto_Integrador_III.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd NOME_DO_REPOSITORIO
+cd Projeto_Integrador_III
 ```
 ###⚠️Observação Importante ###
 
